@@ -1,4 +1,8 @@
-print("Hello, World!")
-print("My first Git and GitHub practical.")
-print("Software Engineering Lab 6")
-print("Version 1.0")
+
+print("Hello, Git and GitHub")
+
+print("Software Engineering Lab 6 Practical.")
+
+print("Now I am Making changes soGit tracks changes in my project.")
+
+print("Version 2.0")
